@@ -14,6 +14,7 @@ let lastName = "Stevenson"
 let thisYear = 1965
 let birthYear = 1947
 let greeting = "Hello! My name is " + firstName + " " + lastName + " and i am " + (1965-1947)+ " years old."
+console.log(greeting)
 
 
 
